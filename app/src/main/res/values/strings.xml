@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MHA</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_FirstName">Address</string>
+    <string name="hint_Lastname">Address</string>
+</resources>
+
+
